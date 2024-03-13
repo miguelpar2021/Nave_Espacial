@@ -1,1 +1,1 @@
-Juego Generdo en Python
+Juego Creado en Python
